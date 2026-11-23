@@ -31,7 +31,7 @@ const MY_DATA = {
   ],
 
   greeting: "Halo.",
-  bio: "Saya mahasiswa Teknik Informatika Universitas Lampung yang berfokus pada pengembangan *aplikasi web modern* (PHP, Laravel, React), platform jurnal akademik, serta [otomasi server Linux & IoT]. Aktif di HIMATRO Unila dan UKM-P ST Gradien Unila.",
+  bio: "Saya mahasiswa Teknik Informatika Universitas Lampung yang berfokus pada pengembangan *aplikasi web modern* (PHP, Laravel, React), platform jurnal akademik, serta [otomasi server Linux & IoT]. Aktif di HIMATRO Unila dan UKM-U Gradien Unila.",
 
   educationIntro:
     "Perjalanan akademik dan pengalaman aktivitas organisasi di kampus.",
@@ -50,7 +50,7 @@ const MY_DATA = {
     },
     {
       title: "Media & Public Relations",
-      place: "UKM-P ST Gradien Unila",
+      place: "UKM-U Gradien Unila",
       period: "2026",
     },
     {
@@ -244,7 +244,7 @@ const MY_DATA = {
     },
     {
       doodle: "guitar",
-      text: "Main gitar elektrik (setup Korg AX5G & Laney amp)",
+      text: "Suka musik dan gitar elektrik ",
     },
     {
       doodle: "headphones",
@@ -262,7 +262,7 @@ const MY_DATA = {
   ],
 
   thanks: "Terima Kasih.",
-  email: "kanayatraylinggapratama@gmail.com",
+  email: "kanayaaa19@gmail.com",
   links: [
     { label: "Website", href: "https://nayzzu.web.id" },
     { label: "GitHub", href: "https://github.com/Nayzzu" },
